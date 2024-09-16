@@ -1,0 +1,1 @@
+Este es un pequeño sistema de subida de imágenes utilizando PHP y MySQL, donde cada imagen subida se guarda en una base de datos y se utiliza una función hash para asegurar la integridad de los archivos.
